@@ -4,9 +4,6 @@ brew cask install spotify
 # https://desktop.telegram.org
 brew cask install telegram
 
-# https://adium.im (irc client, etc.)
-brew cask install adium
-
 brew cask install vlc
 
 # https://www.getpostman.com
@@ -18,5 +15,4 @@ brew cask install dropbox
 # https://www.skype.com
 brew cask install skype
 
-# http://www.cockos.com/licecap
-brew cask install licecap
+brew cask install evernote
