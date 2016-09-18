@@ -4,19 +4,6 @@
 
 <img src="https://media.giphy.com/media/mYtiMk3wqzNwQ/giphy.gif" />
 
-## Usage
-
-### Manually 
-
-Before running the shell script please make sure that you have **[XCode command-line tools (GCC etc.)](https://developer.apple.com/downloads)** installed on your machine.
-
-### Automagically (through [shell scripts](https://github.com/voronianski/setup-osx-work-station/blob/master/bootstrap.sh))
-
-```bash
-git clone git@github.com:voronianski/setup-osx-work-station.git
-bash /setup-osx-work-station/bootstrap.sh
-```
-
 - [x] [homebrew](http://brew.sh)
 - [x] [homebrew-cask](https://caskroom.github.io)
 - [x] [iterm2](https://www.iterm2.com)
